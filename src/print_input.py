@@ -13,7 +13,7 @@
 # def printer(b):
 #     print(f"hello {a}!")
 #
-# printer(a)
+# printer(a)h
 #
 # a = input("please enter your favorite number: ")
 #
